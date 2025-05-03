@@ -19,9 +19,9 @@
             display-name = "Default";
 
             bindings = <
-                &td0 &kp N1 &kp Q &kp W &kp E &kp R
-                &kp LCTRL &kp B &kp A &kp S &kp D &kp F
-                &kp LSHIFT &kp Z &kp X &kp C &kp V &kp SPACE
+                &td0       &kp N1 &kp Q &kp W &kp E &kp R
+                &kp LCTRL  &kp B  &kp A &kp S &kp D &kp F
+                &kp LSHIFT &kp Z  &kp X &kp C &kp V &kp SPACE
             >;
         };
 
